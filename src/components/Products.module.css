@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+    flex-wrap: wrap;
+    min-height: 100vh;
+    overflow: hidden;
+}
+.container img {
+    height: 200px;
+}
